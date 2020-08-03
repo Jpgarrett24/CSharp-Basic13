@@ -1,0 +1,12 @@
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/bin/Debug/netcoreapp3.1/Basic13.deps.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/bin/Debug/netcoreapp3.1/Basic13.runtimeconfig.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/bin/Debug/netcoreapp3.1/Basic13.runtimeconfig.dev.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/bin/Debug/netcoreapp3.1/Basic13.dll
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/bin/Debug/netcoreapp3.1/Basic13.pdb
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.csprojAssemblyReference.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.AssemblyInfoInputs.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.AssemblyInfo.cs
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.csproj.CoreCompileInputs.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.dll
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.pdb
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/Basic13/obj/Debug/netcoreapp3.1/Basic13.genruntimeconfig.cache
